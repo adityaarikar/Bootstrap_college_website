@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+.footer{
+    background-color: grey;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.card{
+    margin: auto;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color: black;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: purple;
+}
+
+form{
+    margin: 50px;
+}
+.card{
+    margin: 50px;
+}
+.button{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Middle Section */
+
+/* End of middle Section */
